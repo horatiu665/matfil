@@ -1,0 +1,307 @@
+﻿
+.table-spacing {
+    height: 30px;
+}
+
+#tiny-spacing {
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.loadingDiv {
+    background-color: #ffe887;
+    margin: auto;
+    vertical-align: middle;
+    
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    top: 30%;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+}
+
+.overlayBG {
+    position: absolute;
+    width: 100%;
+    top: 25%;
+    background-color: #000000;
+}
+
+#okButton {
+    font-size: 1.5em;
+}
+
+#resetGameButton {
+    
+}
+
+/* menu bar shit */
+
+#menubar {
+    font-size: 20px;
+    width: 100%;
+    min-width: 520px;
+    text-align: left;
+    vertical-align: bottom;
+    font-family: "Lucida Console", monospace;
+}
+
+#menubar-table {
+    width: 100%;
+}
+
+.unbreakable {
+    white-space: nowrap;
+}
+
+.tdspacer {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nameForm {
+    display: inline;
+}
+
+.fixed-height {
+    height: 24px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+#gameName {
+    font-size: 24px;
+}
+
+#playerNameDiv {
+    width: 200px;
+}
+
+#playerNameInput {
+    width: 120px;
+}
+
+#nameSpan:hover {
+    text-decoration: underline;
+}
+
+#currentScore {
+    text-align: right;
+}
+
+.powerIcon {
+}
+
+    .powerIcon img {
+        width: 32px;
+        height: 32px;
+    }
+
+#sessionIdDiv {
+    /**/
+    text-align:center;
+    font-family: 'Lucida Console', monospace;
+
+}
+    #sessionIdDiv input {
+        width: 96%;
+        font-family: 'Lucida Console', monospace;
+
+    }
+
+
+#footer {
+    background-color: #000000;
+    margin: 0;
+}
+
+#madeby {
+    text-align: right;
+    color: white;
+    min-width: 360px;
+    padding: 20px;
+}
+
+    #madeby a {
+        color: #fcdd74;
+        text-decoration: none;
+    }
+        /* unvisited link */
+        #madeby a:link {
+            color: #fcdd74;
+        }
+
+        /* visited link */
+        #madeby a:visited {
+            color: #fcdd74;
+        }
+
+        /* mouse over link */
+        #madeby a:hover {
+            color: #fcdd74;
+            text-decoration: underline;
+        }
+
+        /* selected link */
+        #madeby a:active {
+            color: #fcdd74;
+        }
+
+/* table style shit */
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.game-width {
+    margin: auto;
+}
+
+#matrixDiv {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+table {
+    margin: 0px;
+    border-spacing: 0px;
+}
+
+tbody {
+    margin: 0px;
+}
+
+tr {
+    margin: 0px;
+}
+
+#matrixDiv td {
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    margin: 0px;
+    padding: 0px;
+}
+
+/*
+#ffe887
+#f6a553
+#f26932
+#ff0000
+#840000
+#360011
+#0f000d
+    */
+
+td.high0 {
+    background-color: #ffe887;
+    font-weight: 400;
+    font-size: 65%;
+}
+
+td.high1 {
+    background-color: #f6a553;
+    font-weight: 500;
+    font-size: 72%;
+}
+
+td.high2 {
+    background-color: #f26932;
+    font-weight: 700;
+    font-size: 80%;
+}
+
+td.high3 {
+    background-color: #ff0000;
+    font-weight: 900;
+    font-size: 88%;
+}
+
+td.high4 {
+    background-color: #790000;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 85%;
+}
+
+td.high5 {
+    background-color: #360011;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 88%;
+}
+
+td.high6 {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 91%;
+}
+
+td.high7 {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 94%;
+}
+
+td.high8 {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 96%;
+}
+
+td.high9 {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 98%;
+}
+
+td.high10 {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 100%;
+}
+
+#matrixDiv td:active {
+    /*font-size: 70%;*/
+}
+
+.optimized {
+    color: #1e8f24;
+}
+
+/*td.highlighted {
+        background-color: #a3fff5;
+    }
+
+    td:hover {
+        background-color: #a3fff5;
+    }*/
+
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}

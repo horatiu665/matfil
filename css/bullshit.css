@@ -1,0 +1,49 @@
+﻿div.dwarf {
+    margin: auto;
+    width: 32px;
+    height: 64px;
+    background-image: url("../images/dwarfguy.png");
+    background-size: 192px;
+}
+
+
+
+div.val0 {
+    background-position-y: 0px;
+}
+
+div.val1 {
+    background-position-y: 64px;
+}
+
+div.val2 {
+    background-position-y: 128px;
+}
+
+div.val3 {
+    background-position-y: 192px;
+}
+
+div.val4 {
+    background-position-y: 256px;
+}
+
+div.val5 {
+    background-position-y: 320px;
+}
+
+div.val6 {
+    background-position-y: 384px;
+}
+
+div.val7 {
+    background-position-y: 448px;
+}
+
+div.val8 {
+    background-position-y: 512px;
+}
+
+div.val9 {
+    background-position-y: 576px;
+}

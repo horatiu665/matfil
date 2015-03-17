@@ -1,0 +1,14 @@
+css\default.css
+default.html
+js\advancedOperations.js
+js\config.js
+js\default.js
+js\graphicalStuff.js
+js\jquery.js
+js\logger.js
+js\matrixOperations.js
+js\saveload.js
+js\start.js
+js\utils.js
+tpl\matrix.html
+tpl\matrixElement.html

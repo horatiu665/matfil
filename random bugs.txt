@@ -1,0 +1,22 @@
+Gameplay
+========
+
+- tutorial: only allowed to change a couple cells until you get it
+- share puzzles by link along with session number
+
+
+
+Bugs
+====
+
+fix highscore shit with mozilla
+highscore offline message (with rolling circle "reconnecting...")
+upload your score button (force connect)
+
+REDUCE NUMBER OF XMLHTTPREQUESTS TO UNDER 2000 PER 24 HOURS!!! for the site to work on RETARDED SHIT 000webhost.com
+
+Tutorial
+====
+- shadow over a T to see how it repeats.
+- Click on cells from 3-4-5-1-2, and solve a puzzle.
+- click a more fucked up group, solve that one, then go to 5x5

@@ -1,0 +1,30 @@
+﻿#highscore-table {
+    font-family: 'Lucida Console', monospace;
+    width: 280px;
+    margin: auto;
+    text-align: left;
+    height: 260px;
+}
+
+    #highscore-table td + td + td {
+        text-align: right;
+    }
+
+#highscore-title {
+    text-align: center;
+    font-size: 130%;
+    height: 36px;
+}
+
+#highscore-name {
+    width: 120px;
+}
+
+#highscore-level {
+    width: 80px;
+}
+
+#highscore-score {
+    width: 60px;
+    text-align: right;
+}

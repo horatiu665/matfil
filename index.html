@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>MatrixFillerJS</title>
+
+    <!-- Other libs -->
+    <script src="js/jquery.js"></script>
+
+    <!-- MatrixFillerJS references -->
+    <link href="css/default.css" rel="stylesheet" />
+    <link href="css/fonts.css" rel="stylesheet" />
+    <link href="css/bullshit.css" rel="stylesheet" />
+    <link href="css/highscore.css" rel="stylesheet" />
+
+    <script src="js/default.js"></script>
+
+</head>
+<body>
+    <div id="rootDiv">
+        <div id="gamediv" class="game-width">
+            <div class="table-spacing"></div>
+            <!-- matrix goes here -->
+            <div id="matrixDiv" class="noselect">
+                <table>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+            <div class="table-spacing"></div>
+            <!-- jquery calculates exact height of this to fit the grid plus spacings into one screen. -->
+            <div id="tiny-spacing"></div>
+        </div>
+
+        <!-- menu goes below grid, so potentially one only sees grid while playing -->
+        <div id="menubar" class="noselect game-width">
+            <!-- name of the game, current score, player name label/input icons for current powers -->
+            <div>
+                <table id="menubar-table">
+                    <tr>
+                        <td id="gameName" class="unbreakable">Matrix Filler</td>
+                        <td id="playerNameDiv" class="tdspacer unbreakable">
+                            <span id="nameSpan">YourNameHere</span>
+                        </td>
+                        <td id="currentScore" class="unbreakable">Dubs: <span>100</span>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+
+        <div class="table-spacing"></div>
+
+        <div id="sessionIdDiv" class="game-width">
+            <div>Continue this game later by saving this link!</div>
+            <input id="sessionIdLink" onclick="this.setSelectionRange(0, this.value.length)" type="text" readonly></input>
+        </div>
+        
+        <div class="table-spacing"></div>
+
+        <div class="game-width center">
+            <!-- new game button -->
+            <input id="resetGameButton" type="button" value="Reset Game from Scratch!" onclick="resetGame()"/>
+        </div>
+        
+        <div class="table-spacing"></div>
+
+        <div id="highscore-table">
+            <table>
+                <tbody>
+                    <tr>
+                        <th id="highscore-title" colspan="3">Highscores</th>
+                    </tr>
+                    <tr>
+                        <th id="highscore-name">Name</th>
+                        <th id="highscore-level">Level</th>
+                        <th id="highscore-score">Dubs</th>
+                    </tr>
+                    <tr>
+                        <td>delete me pls</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+
+        <div class="table-spacing"></div>
+
+        <div id="instructions" class="game-width center">
+            instructions go here
+
+        </div>
+
+        <div class="table-spacing"></div>
+
+        <div id="footer">
+            <div class="table-spacing"></div>
+            <div id="madeby" class="game-width">
+                Made by <a href="http://horatiu665.tumblr.com">Horatiu Roman</a>
+            </div>
+            <div class="table-spacing"></div>
+
+        </div>
+    </div>
+</body>
+</html>

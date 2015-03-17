@@ -1,0 +1,13 @@
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bin\Debug\resources.pri
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bin\Debug\AppxManifest.xml
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bin\Debug\MatrixFillerJS.build.appxrecipe
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bld\Debug\priconfig.xml.intermediate
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bld\Debug\layout.resfiles.intermediate
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bld\Debug\resources.resfiles.intermediate
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bld\Debug\pri.resfiles.intermediate
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bld\Debug\priconfig.xml
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bld\Debug\layout.resfiles
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bld\Debug\resources.resfiles
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bld\Debug\pri.resfiles
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bld\Debug\LanguageQualifiers.txt
+C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HHH</Machine>
+    <WindowsUser>horatiu665</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>E8840EDDAFC2C3969D1616EED4AB09D963FA064DFAF3EA354B9205E6BF3CA74B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>985b496f-5594-4fc0-817f-8e843872563a_1.0.0.0_neutral__p0vz007d3zbzt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>985b496f-5594-4fc0-817f-8e843872563a_p0vz007d3zbzt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>985b496f-5594-4fc0-817f-8e843872563a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=horatiu665</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-12T15:47:09.924</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-03-12T15:46:54.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\tpl\matrix.html">
+      <PackagePath>tpl\matrix.html</PackagePath>
+      <Modified>2015-03-12T15:02:48.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\tpl\matrixElement.html">
+      <PackagePath>tpl\matrixElement.html</PackagePath>
+      <Modified>2015-03-12T15:01:12.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-05T01:44:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-05T01:44:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-05T01:44:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-05T01:44:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-03-12T15:47:06.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\js\jquery.js">
+      <PackagePath>js\jquery.js</PackagePath>
+      <Modified>2015-03-12T15:05:37.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\js\start.js">
+      <PackagePath>js\start.js</PackagePath>
+      <Modified>2015-03-12T15:35:32.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-06-05T01:44:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\horatiu665\Documents\Visual Studio 2012\Projects\MatrixFillerJS\MatrixFillerJS\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-12T15:47:09.866</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
